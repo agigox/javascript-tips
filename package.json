@@ -1,0 +1,19 @@
+{
+  "name": "javascript-tips",
+  "version": "1.0.0",
+  "description": "In this section we will explain some javascript methodologies and notions.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agigox/javascript-tips.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agigox/javascript-tips/issues"
+  },
+  "homepage": "https://github.com/agigox/javascript-tips#readme"
+}
